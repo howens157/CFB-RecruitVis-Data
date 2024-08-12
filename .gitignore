@@ -1,0 +1,4 @@
+scraping/.venv
+scraping/__pycache__
+ingestions/.venv
+ingestions/.env
